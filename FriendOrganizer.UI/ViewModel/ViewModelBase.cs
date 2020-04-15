@@ -11,5 +11,4 @@ namespace FriendOrganizer.UI.ViewModel
             PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(propertyName));
         }
     }
-
 }
